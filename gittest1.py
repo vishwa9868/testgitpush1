@@ -1,0 +1,10 @@
+import pymongo
+db = freifjjgorgkork
+nvnjirjpmfkemf
+mnkgfngoigj[poe;
+fnijiojogkopml;tgm
+nfiniogjpogjtojgnkn
+fningirgnmibhbfwretup84u87uu5inn
+fnufnuhffr8fjnsdhfuihg8vm
+nvnidu8fjjf3ndijio89jkjjfiurrofjijfkjnfjn
+]
