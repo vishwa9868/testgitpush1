@@ -11,14 +11,19 @@ print(db)
 }
 db1 = client['pythonProject1']
 coll = db1['test']
-coll.insert_one(d)
+coll.insert_one(d)vishwanathpatil023@gmail.com",
+    "surname": "patil"
+}
+
+{
+    "name": "vishwa",
+    "email": "
 
 {
     "name": "vishwa",
     "email": "vishwanathpatil023@gmail.com",
     "surname": "patil"
 }
-
 {
     "name": "vishwa",
     "email": "vishwanathpatil023@gmail.com",
